@@ -18,3 +18,8 @@ npm run dev
 - Lint against common errors (typos, unused code) | [ESLint](https://eslint.org)
 
 No static typing. Better for solo prototyping. Just [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+
+<!-- prettier-ignore -->
+| Light | Dark |
+| ---- | --- |
+| ![Light mode screenshot](https://github.com/xixixao/vite-react-stitches-radix/blob/assets/vite-template-light.png) | ![Dark mode screenshot](https://github.com/xixixao/vite-react-stitches-radix/blob/assets/vite-template-dark.png) |
